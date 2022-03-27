@@ -47,13 +47,6 @@ return 0;
 * Co-founder of [@Cybernity](https://cybernity.org) .
 
 * Persuing my undergrad in ISE from IIT-KGP.
-
-* My fields of interest include:
-   - Networking
-   - Steganography
-   - Cryptography
-   - Prgramming and Scripting
-   - CyberSEC
    
 * My skill sets include:
    - C/C++, java, python : (intermediate)
@@ -71,7 +64,7 @@ return 0;
 </p>
 <br/>
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=sarthakroy2002&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=proffapt&theme=redical">
 </p>  
 
 <p align="center">
