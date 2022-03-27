@@ -1,6 +1,6 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm proffapt!</h2>
 
-```cpp
+<!-- ```cpp
 #include<iostream>
 
 class intro
@@ -42,7 +42,8 @@ int main(){
 
 return 0;
 }
-```
+```  -->
+
 * Co-founder of [@Cybernity](https://cybernity.org) .
 
 * Persuing my undergrad in ISE from IIT-KGP.
@@ -53,7 +54,13 @@ return 0;
    - Cryptography
    - Prgramming and Scripting
    - CyberSEC
-
+   
+* My skill sets include:
+   - C/C++, java, python : (intermediate)
+   - go, bash : (beginner)
+   - Git
+   - Linux
+   - Pentesting
 
 ### ⚙️ &nbsp;My GitHub Analytics:
 <p align="center">
