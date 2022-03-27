@@ -63,6 +63,9 @@ return 0;
 </a>
 </p>
 <br/>
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=sarthakroy2002&theme=redical">
+</p>  
 
 <p align="center">
 📫 How to reach me:   
