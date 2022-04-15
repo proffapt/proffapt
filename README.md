@@ -46,7 +46,7 @@ return 0;
 
 * Co-founder of [@Cybernity](https://cybernity.org) .
 
-* Persuing my undergrad in ISE from IIT-KGP.
+* Pursuing my undergrad in ISE from IIT-KGP.
    
 * My skill sets include:
    - C/C++, java, python : (intermediate)
