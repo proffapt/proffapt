@@ -1,4 +1,4 @@
-<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm proffapt!</h2>
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px">, I'm proffapt!</h2>
 
 <!-- ```cpp
 #include<iostream>
