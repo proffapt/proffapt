@@ -49,11 +49,10 @@ return 0;
 * Pursuing my undergrad in ISE from IIT-KGP.
    
 * My skill sets include:
-   - C/C++, java, python : (intermediate)
-   - go, bash : (beginner)
-   - Git : (intermediate)
-   - Linux : (intermediate)
-   - Pentesting : (intermediate)
+  - C/C++,Java,Python,Bash : Beginner
+  - Linux : Intermediate
+  - Git : Intermediate
+  - Pen-testing : Beginner
 
 ### ⚙️ &nbsp;My GitHub Analytics:
 <p align="left">
