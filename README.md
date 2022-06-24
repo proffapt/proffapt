@@ -43,16 +43,14 @@ int main(){
 return 0;
 }
 ```  -->
-
-* Co-founder of [@Cybernity](https://cybernity.org) .
-
-* Pursuing my undergrad in ISE from IIT-KGP.
    
 * My skill sets include:
   - C/C++,Java,Python,Bash : Beginner
   - Linux : Intermediate
   - Git : Intermediate
   - Pen-testing : Beginner
+
+* Co-founder of [@Cybernity](https://cybernity.org) .
 
 ### ⚙️ &nbsp;My GitHub Analytics:
 <p align="left">
