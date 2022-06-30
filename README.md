@@ -45,10 +45,11 @@ return 0;
 ```  -->
    
 * My skill sets include:
-  - C/C++,Java,Python,Bash : Beginner
+  - Lua,CSS,Python,JavaScript: n00b
+  - HTML,C/C++,Java,Nix(OS+Lang),Bash : Beginner
   - Linux : Intermediate
   - Git : Intermediate
-  - Pen-testing : Beginner
+  - Pen-testing : Intermediate
 
 * Co-founder of [@Cybernity](https://cybernity.org) .
 
