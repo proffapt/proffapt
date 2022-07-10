@@ -5,7 +5,7 @@
 </a>
 
 * Co-founder of [@Cybernity](https://cybernity.org) .<br>
-* My skill sets include:
+* My skills set include:
   - Language(s)
     - Noob : Lua, CSS, Python, JavaScript
     - Beginner : HTML, Java, NixLang
@@ -16,7 +16,7 @@
       <img height="210em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=proffapt&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
       </a>
     - MacOS: Intermediate
-    - Windows(and server management): Beginner
+    - Windows(& server management): Beginner
     - NixOS : Beginner
   - Tools
     - Git: Intermediate
