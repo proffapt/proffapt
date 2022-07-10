@@ -1,71 +1,36 @@
-<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px">, I'm proffapt!</h2>
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px">, I'm Arpit !</h2>
 
-<!-- ```cpp
-#include<iostream>
-
-class intro
-{
-  private:
-    std::string name;
-    std::string skill_set_array[5];
-  public:
-    intro(std::string name)
-    {
-      this->name = name;
-    }
-    intro &set_skill_set(void)
-    {
-        skill_set_array[0]="Linux";
-        skill_set_array[1]="C/C++";
-        skill_set_array[2]="Java";
-        skill_set_array[3]="Git";
-        skill_set_array[4]="Intermediate level pentesting";
-
-        return *this;
-    }
-
-    void print_skill_set(void);
-};
-
-void intro::print_skill_set(void)
-{
-    std::cout<< name<<"'s "<< "skill set include: "<< std::endl;
-        for(int i = 0; i<5; i++){
-            std::cout<< "*"<< skill_set_array[i]<< std::endl;
-        }
-}
-
-int main(){
-
-    intro *proff = new intro("proffapt");
-    (proff->set_skill_set()).print_skill_set();
-
-return 0;
-}
-```  -->
-   
-* My skill sets include:
-  - Lua,CSS,Python,JavaScript: n00b
-  - HTML,C/C++,Java,Nix(OS+Lang),Bash : Beginner
-  - Linux : Intermediate
-  - Git : Intermediate
-  - Pen-testing : Intermediate
-
-* Co-founder of [@Cybernity](https://cybernity.org) .
-
-### ⚙️ &nbsp;My GitHub Analytics:
-<p align="left">
 <a href="https://github.com/proffapt">
-<img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=proffapt&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-<img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=proffapt&layout=compact&langs_count=8&theme=nightowl"/>
+<img height="220em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=proffapt&layout=compact&langs_count=8&theme=nightowl" align="right"/>
 </a>
-</p>
-<br/>
+
+* Co-founder of [@Cybernity](https://cybernity.org) .<br>
+* My skill sets include:
+  - Language(s)
+    - Noob : Lua, CSS, Python, JavaScript
+    - Beginner : HTML, Java, NixLang
+    - Proficient : C/C++, Bash
+  - OS(s)
+    - *nix : Intermediate
+      <a href="https://github.com/proffapt">
+      <img height="210em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=proffapt&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
+      </a>
+    - MacOS: Intermediate
+    - Windows(and server management): Beginner
+    - NixOS : Beginner
+  - Tools
+    - Git: Intermediate
+    - Vi/Vim/NeoVim: Intermediate
+  - Others
+    - Pen-testing: Intermediate
+
+<!--
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=proffapt&theme=redical">
 </p>  
-
-<p align="center">
+-->
+<hr>
+<p align="left">
 📫 How to reach me:   
 
 <a href="https://twitter.com/proffapt">
@@ -77,13 +42,9 @@ return 0;
 <a href="https://www.linkedin.com/in/proffapt/">
   <img align="center" alt="proffapt's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a> 
+<a href="https://www.linkedin.com/in/proffapt/">
+  <img src="https://komarev.com/ghpvc/?username=proffapt&style=flat-square" align="right"/>
+</a> 
 </p>
-<br />
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=proffapt&style=flat-square"/>
- <img src="https://badges.pufler.dev/years/proffapt"/>
- <img src="https://badges.pufler.dev/repos/proffapt"/>
- <img src="https://badges.pufler.dev/commits/monthly/proffapt"/>
- <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dproffapt&longCache=true"/>
-</p>
+ 
