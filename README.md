@@ -8,8 +8,8 @@
 * My skills set include:
   - Language(s)
     - Noob : Lua, CSS, Python, JavaScript
-    - Beginner : HTML, Java, NixLang
-    - Proficient : C/C++, Bash
+    - Beginner : HTML, NixLang
+    - Proficient : C/C++, Bash, Java
   - OS(s)
     - *nix : Intermediate
       <a href="https://github.com/proffapt">
