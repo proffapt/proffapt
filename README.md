@@ -1,37 +1,17 @@
-<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px">, I'm Arpit !</h2>
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px">, I'm Arpit Bhardwaj aka @proffapt</h2>
 
 <a href="https://github.com/proffapt">
-<img height="220em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=proffapt&layout=compact&langs_count=8&theme=nightowl" align="right"/>
+<img height="200" width="480" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=proffapt&layout=compact&langs_count=8&theme=nightowl"/>
+</a>
+<a href="https://github.com/proffapt">
+<img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=proffapt&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 </a>
 
-* Co-founder of [@Cybernity](https://cybernity.org) .<br>
-* My skills set include:
-  - Language(s)
-    - Noob : Lua, Python, JavaScript
-    - Beginner : HTML, CSS, NixLang
-    - Proficient : C/C++, Bash, Java
-  - OS(s)
-    - *nix : Intermediate
-      <a href="https://github.com/proffapt">
-      <img height="210em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=proffapt&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
-      </a>
-    - MacOS: Intermediate
-    - Windows(& server management): Intermediate
-    - NixOS : Beginner
-  - Tools
-    - Git: Intermediate
-    - Vi/Vim/NeoVim: Intermediate
-  - Others
-    - Pen-testing: Intermediate
+For Professional details - [READ MY RESUME <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png">](https://github.com/proffapt/resume/raw/main/Arpit-Bhardwaj_RESUME.pdf) 
 
-<!--
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=proffapt&theme=redical">
-</p>  
--->
 <hr>
-<p align="left">
-📫 How to reach me:   
+<p>
+📫 How to reach me? -   
 
 <a href="https://twitter.com/proffapt">
   <img align="center" alt="proffapt's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
@@ -46,5 +26,3 @@
   <img src="https://komarev.com/ghpvc/?username=proffapt&style=flat-square" align="right"/>
 </a> 
 </p>
-
- 
