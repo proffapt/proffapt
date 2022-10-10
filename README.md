@@ -7,7 +7,9 @@
 <img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=proffapt&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 </a>
 
-ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮ㅤ ⁪⁬⁮⁮⁮⁮  ⁪⁬⁮⁮⁮⁮⭕️ **For Professional details** - [**READ MY RESUME** <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png">](https://github.com/proffapt/resume/raw/main/Arpit-Bhardwaj_RESUME.pdf)
+<div align="center">
+⭕️ <b>For Professional details</b> - <a href="https://github.com/proffapt/resume/raw/main/Arpit-Bhardwaj_RESUME.pdf"><b>READ MY RESUME</b> <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png"></a>
+</div>
 
 <hr>
 <p>
