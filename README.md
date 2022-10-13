@@ -1,7 +1,7 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px">, I'm Arpit Bhardwaj aka proffapt</h2>
 I am an undergraduate from IIT Kharagpur. 
 
-Interested (and hence Reads) about Computers, Quantum Mechnaics and Astronomy.
+Interested (and hence Reads) about Computers, Quantum Mechanics and Astronomy.
 
 <div align="center">
 ⭕️ <b>For Professional details</b> - <a href="https://github.com/proffapt/resume/raw/main/Arpit-Bhardwaj_RESUME.pdf"><b>READ MY RESUME</b> <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png"></a>
