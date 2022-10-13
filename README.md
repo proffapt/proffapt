@@ -7,7 +7,7 @@ Interested (and hence Reads) about Computers, Quantum Mechnaics and Astronomy.
 ⭕️ <b>For Professional details</b> - <a href="https://github.com/proffapt/resume/raw/main/Arpit-Bhardwaj_RESUME.pdf"><b>READ MY RESUME</b> <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png"></a>
 </div>
 
-## 💰 My ~~NFTs~~ (edit: apparently they are not NFTs?)
+## My ~~NFTs~~ 💰 (edit: apparently they are not NFTs?)
 [![@proffapt's Holopin board](https://holopin.me/proffapt)](https://holopin.io/@proffapt)
 
 <a href="https://github.com/proffapt">
