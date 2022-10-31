@@ -36,7 +36,7 @@ Interested (and hence Reads) about Computers, Quantum Mechanics and Astronomy.
 <a href="mailto:proffapt@pm.me">
   <img align="center" alt="proffapt's mail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg" />
 </a> 
-<a href="cybernity.group">
+<a href="https://cybernity.group">
   <img align="center" alt="proffapt's forum for cybernity" width="22px" src="https://cybernity.group/uploads/default/original/1X/a8338f86bbbedd39701c85d5f32cf3d817c04c27.png" />
 </a> 
 <a href="https://www.linkedin.com/in/proffapt/">
