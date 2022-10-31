@@ -23,6 +23,7 @@ Interested (and hence Reads) about Computers, Quantum Mechanics and Astronomy.
 <p>
 📫 How to reach me? -   
 
+
 <a href="https://twitter.com/proffapt">
   <img align="center" alt="proffapt's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
 </a>
@@ -31,6 +32,12 @@ Interested (and hence Reads) about Computers, Quantum Mechanics and Astronomy.
 </a>
 <a href="https://www.linkedin.com/in/proffapt/">
   <img align="center" alt="proffapt's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+</a> 
+<a href="mailto:proffapt@pm.me">
+  <img align="center" alt="proffapt's mail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg" />
+</a> 
+<a href="cybernity.group">
+  <img align="center" alt="proffapt's forum for cybernity" width="22px" src="https://cybernity.group/uploads/default/original/1X/a8338f86bbbedd39701c85d5f32cf3d817c04c27.png" />
 </a> 
 <a href="https://www.linkedin.com/in/proffapt/">
   <img src="https://komarev.com/ghpvc/?username=proffapt&style=flat-square" align="right"/>
