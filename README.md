@@ -7,8 +7,7 @@ I sometimes write on [blog.proffapt.me](https://proffapt.hashnode.dev).
 ⭕️ <b>For Professional details</b> - <a href="https://github.com/proffapt/resume/raw/main/Arpit-Bhardwaj_RESUME.pdf"><b>READ MY RESUME</b> <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png"></a>
 </div>
 
-## My ~~NFTs~~ 💰 (edit: apparently they are not NFTs?)
-[![@proffapt's Holopin board](https://holopin.me/proffapt)](https://holopin.io/@proffapt)
+<hr>
 
 <a href="https://github.com/proffapt">
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=proffapt&layout=compact&langs_count=8&theme=nightowl"/>
@@ -17,7 +16,7 @@ I sometimes write on [blog.proffapt.me](https://proffapt.hashnode.dev).
 <img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=proffapt&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 </a>
 
-<hr>
+<br>
 <p>
 <a href="https://www.linkedin.com/in/proffapt/">
   <img src="https://komarev.com/ghpvc/?username=proffapt&style=flat-square" align="right"/>
