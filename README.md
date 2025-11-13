@@ -1,5 +1,5 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px">, I'm Arpit Bhardwaj (aka proffapt)</h2>
-I am an undergraduate from IIT Kharagpur ('25 batch).
+I am a graduate from IIT Kharagpur ('25 batch).
 
 I am interested in reading about computers, quantum mechanics, & quantum computing.<br>
 I sometimes write -  _more like rant_ - on [my blog](https://proffapt.hashnode.dev).
